@@ -1,5 +1,5 @@
 # cubed-calculator
- This was a fun website I made, to learn more about JavaScript and Vim. All of this was made in Vim, feel free to learn from the code. Here's the website. 
+ This was a fun website I made, to learn more about JavaScript and Vim. All of this was made in Vim, feel free to learn from the code. Here's the website. https://cubed-calculator.netlify.app/
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
